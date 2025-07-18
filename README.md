@@ -1,11 +1,16 @@
 <h1 align="center">Hi 👋, I'm Duvindu Ransika</h1>
 <h3 align="center">BSc Undergraduate student University Of Ruhuna</h3>
 
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=duvindu-ransika&label=Profile%20views&color=0e75b6&style=flat" alt="duvindu-ransika" /> </p>
 
 - 🌱 I’m currently learning **frameworks, web develops**
 
 - 📫 How to reach me **duvinduransika100@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
